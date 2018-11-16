@@ -43,7 +43,7 @@
 2. Condition 11.13  
 3. ReentrantReadWriteLock  11.16--11.17
 4. LockSupport 11.18
-5. ReentrantLock源码 11.19--11.20
+5. ReentrantLock源码 11.19--11.20 这里需要先看AQS，AQS中的node结点和tryAcquire等方法，因为Lock和tools中的类都是通过内部类SYN来继承AQS，重写里面的方法实现的！！！加油鸭！！！！
 
  **【tools】**  这个地方总是把CountDownLatch和CyclicBarrier混淆，学几遍咋都记不住1！！！！！:pig::pig::pig::pig::pig::pig:    
 
