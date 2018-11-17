@@ -43,33 +43,36 @@
 2. Condition 11.13  
 3. ReentrantReadWriteLock  11.16--11.17
 4. LockSupport 11.18
-5. ReentrantLock源码 11.19--11.20 这里需要先看AQS，AQS中的node结点和tryAcquire等方法，因为Lock和tools中的类都是通过内部类SYN来继承AQS，重写里面的方法实现的！！！加油鸭！！！！   
+5. ReentrantLock源码 11.19--11.20 这里需要先看AQS，AQS中的node结点和tryAcquire等方法，因为Lock和tools中的类都是通过内部类SYN来继承AQS，重写里面的方法实现的！！！加油鸭！！！！     
 
+:sunny::sunny::sunny::sunny::sunny::sunny:  AQS的Node和阻塞队列 + 各个工具类的SYN类是怎么实现的源码。。。。。。 :sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny:  
+
+11. 20 -- 11.25
  **【tools】**  这个地方总是把CountDownLatch和CyclicBarrier混淆，学几遍咋都记不住1！！！！！:pig::pig::pig::pig::pig::pig:    
 
- 1. CountDownLatch 11.21
- 2. CyclicBarrier  11.22
- 3. Semaphore  11.23
+ 1. CountDownLatch 11.26
+ 2. CyclicBarrier  11.27
+ 3. Semaphore  11.28
  4. Executors 跟线程池一起学，需要看源码
  
- 11.24--11.25 把前面的tools和Lock的复习一下   
+ 11.28--11.29 把前面的tools和Lock的复习一下   
  
  
  **【Collections】**  
   
- 1. Queue   11.26-11.30
+ 1. Queue   11.29-11.30
  2. CopyOnWriteArrayList  12.1
  3. CopyOnWriteArraySet 12.2
  4. CurrentSkipListSet  12.3
  5. concurrentMap  12.4--12.7 这个需要看源码的！！！
  
- 12.8-12.9 把Collections的内容复习一变。注意concurrentMap中新的jdk的改变！！！  
+ 12.8-12.11 把Collections的内容复习一变。注意concurrentMap中新的jdk的改变！！！  
  
  
  **【executor】**  
   
- 1. Future 这个设计到forkjoin框架。 12.10-12.12
- 2. 剩下的就是需要看线程池的源码！！！12.13--12.31 
+ 1. Future 这个设计到forkjoin框架。 12.11-12.15
+ 2. 剩下的就是需要看线程池的源码！！！12.15--12.31 
  
  
  每天都要加油鸭！！！！！:hatched_chick::hatched_chick::hatched_chick::hatched_chick::hatched_chick:   
