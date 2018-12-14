@@ -115,4 +115,7 @@
 :palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree:      
 
 11.22下午 -- 11.23 扑街了，太累了，休息一天半。。已经调整差不多了，继续！！！   
-11.25 -- 12.1 哇，好像是没学java 啊！！！！！！！！！！！！！！！    
+11.25 -- 12.1 哇，好像是没学java 啊！！！！！！！！！！！！！！！     
+
+12.14 今天看了一篇博文，真的是鸡血满满啊。。。。今天把 bean加载的源码看完了，还是需要好好捋一下！！！加油鸭！！   
+
