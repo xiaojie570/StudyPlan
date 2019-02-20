@@ -12,7 +12,7 @@
 :sunflower: 1.1 -- 2.1 卡夫卡（新学） 慢点学，要总结  
 :sunflower: 11.14-春招 把刷过题总结 归类，再看一遍，一天看2个题就可以啦！！！  
 :sunflower: 1.1 -- 1.15 mysql数据库再看一遍索引部分（半个月）    
-:sunflower: 1.1 -- 2.30 基础知识复习 集合类源码复习 + 看网络TCP HTTP等。。。  ioc + aop  
+:sunflower: 1.1 -- 2.28 基础知识复习 集合类源码复习 + 看网络TCP HTTP等。。。  ioc + aop  
 
 
 :sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles:
@@ -121,4 +121,36 @@
 11.25 -- 12.1 哇，好像是没学java 啊！！！！！！！！！！！！！！！     
 
 12.14 今天看了一篇博文，真的是鸡血满满啊。。。。今天把 bean加载的源码看完了，还是需要好好捋一下！！！加油鸭！！   
+
+
+ 
+:palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree:      
+ 
+:palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree:      
+ 
+:palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree:      
+
+开年大吉啊， 马上要春招了，也不是很激动，就是总觉得自己还有很多东西没有学。先列一下都学了些什么 + 还需要学些什么吧~    
+
+已经学过的    
+1. JVM    
+2. JUC    
+3. mysql 索引    
+4. redis    
+5. 设计模式（十个）       
+6. zk    
+7. kafka       
+8. 电商项目（单点登录、定时关单、秒杀）    
+9. spring bean部分的源码    
+10. AIO NIO BIO    
+
+
+还需要学的
+
+1. spring AOP + 事务   
+2. mysql 事务 + 分库分表
+3. netty    
+4. dubbo          
+5. 算法（算法应该是一个长期积累的过程，不能一蹴而就）    
+
 
