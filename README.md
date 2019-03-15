@@ -1,14 +1,13 @@
 :sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles:
 
-春招不知道老杨让不让去实习啊！！！！！  好好学习吧，兵来将挡水来土掩吧！！！！    
 
-:sunflower: 11.14-12.31 redis学完，总结（一个半月,一天看半个小时就可以啦！！！）  
-:sunflower: 11.14-12.10 电商一期项目做完，总结  
+
+:sunflower: 11.14-12.31 redis学完，总结（一个半月,一天看半个小时就可以啦！！！）   
 :sunflower: 11.14-12.31 JUC再看一遍，总结（一个半月）  
 :sunflower: 11.14-12.31 JVM再看一遍，总结（一个半月）  
 :sunflower: 11.14-春招 设计模式（之前看过的12种再总结一下，要记住）如果有精力可以再看新的！！！  
 :sunflower: 11.14-12.31 spring的语法（总结，多看几次！！！）  
-:sunflower: 12.10-1.31 电商二期项目做完，总结（一个月20天）     
+:sunflower: 12.10-1.31 项目做完，总结（一个月20天）     
 :sunflower: 1.1 -- 2.1 卡夫卡（新学） 慢点学，要总结  
 :sunflower: 11.14-春招 把刷过题总结 归类，再看一遍，一天看2个题就可以啦！！！  
 :sunflower: 1.1 -- 1.15 mysql数据库再看一遍索引部分（半个月）    
@@ -21,11 +20,11 @@
 
 1. 8：00-9：30 JUC  
 2. 9：30-10：30 JVM  
-3. 10：30-11：20 电商项目  
+项目  
 
 下午（2小时30分钟）  
 
-4. 1：30--2：30 电商    
+4. 1：30--2：30 项目   
 5. 2: 30-- 3：00 redis    
 6. 3: 00-- 4：00 spring基础    
 
@@ -108,7 +107,7 @@
 
 下午：   
 2.00 -- 3.00 redis源码   
-3.00 -- 4.00 Spring项目   
+项目   
 
 晚上：  
 6.00 -- 7.00 JVM    
@@ -139,16 +138,14 @@
 4. redis    
 5. 设计模式（十个）       
 6. zk    
-7. kafka       
-8. 电商项目（单点登录、定时关单、秒杀）    
-9. spring bean部分的源码    
-10. AIO NIO BIO    
+7. kafka         
+8. spring bean部分的源码    spring AOP + 事务   
+9. AIO NIO BIO    
+10. mysql 事务 + 分库分表
 
 
 还需要学的
 
-1. spring AOP + 事务   
-2. mysql 事务 + 分库分表
 3. netty    
 4. dubbo          
 5. 算法（算法应该是一个长期积累的过程，不能一蹴而就）    
