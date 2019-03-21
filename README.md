@@ -1,3 +1,30 @@
+一个菜鸡的成长~
+
+已经学过的    
+1. JVM    
+2. JUC    
+3. mysql 索引    
+4. redis    
+5. 设计模式（十个）       
+6. zk    
+7. kafka         
+8. spring bean部分的源码    spring AOP + 事务   
+9. AIO NIO BIO    
+10. mysql 
+
+
+还需要学的
+
+1. Netty -> 源码    
+2. Dubbo -> 源码            
+3. 算法（剑指offer + leetcode，至少把之前做的leetcode题捡起来）    
+4. Docker
+5. SpringBoot -> 源码
+6. Springcloud （这个要在工作之后再学）
+7. 设计模式（化有形于无形）
+
+
+
 :sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles:
 
 
@@ -129,27 +156,8 @@
  
 :palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree:      
 
-开年大吉啊， 马上要春招了，也不是很激动，就是总觉得自己还有很多东西没有学。先列一下都学了些什么 + 还需要学些什么吧~    
-
-已经学过的    
-1. JVM    
-2. JUC    
-3. mysql 索引    
-4. redis    
-5. 设计模式（十个）       
-6. zk    
-7. kafka         
-8. spring bean部分的源码    spring AOP + 事务   
-9. AIO NIO BIO    
-10. mysql 事务 + 分库分表
 
 
-还需要学的
-
-1. netty    
-2. dubbo -> 源码            
-3. 算法（算法应该是一个长期积累的过程，不能一蹴而就）    
-4. docker
 
 
 
