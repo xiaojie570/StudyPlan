@@ -3,14 +3,13 @@
 已经学过的    
 1. JVM    
 2. JUC    
-3. mysql 索引    
+3. mysql    
 4. redis    
 5. 设计模式（十个）       
 6. zk    
 7. kafka         
 8. spring bean部分的源码    spring AOP + 事务   
-9. AIO NIO BIO    
-10. mysql 
+9. AIO NIO BIO     
 
 
 还需要学的
